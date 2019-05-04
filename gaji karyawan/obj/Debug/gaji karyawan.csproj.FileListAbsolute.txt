@@ -1,0 +1,7 @@
+D:\Amikom\pemrog\gaji karyawan\gaji karyawan\bin\Debug\gaji karyawan.exe.config
+D:\Amikom\pemrog\gaji karyawan\gaji karyawan\bin\Debug\gaji karyawan.exe
+D:\Amikom\pemrog\gaji karyawan\gaji karyawan\bin\Debug\gaji karyawan.pdb
+D:\Amikom\pemrog\gaji karyawan\gaji karyawan\obj\Debug\gaji karyawan.csprojAssemblyReference.cache
+D:\Amikom\pemrog\gaji karyawan\gaji karyawan\obj\Debug\gaji karyawan.csproj.CoreCompileInputs.cache
+D:\Amikom\pemrog\gaji karyawan\gaji karyawan\obj\Debug\gaji karyawan.exe
+D:\Amikom\pemrog\gaji karyawan\gaji karyawan\obj\Debug\gaji karyawan.pdb
